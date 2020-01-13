@@ -20,15 +20,15 @@ document.addEventListener("DOMContentLoaded", ()=>{
       e.target.reset()
       toyForm.style.display = 'none'
     })
-      getToys()
+    getToys()
 })
 
 const getToys = () => {
-  fetch("http://localhost:3000/toys")
+    fetch("http://localhost:3000/toys")
     .then(res => res.json())
     .then(data => showToys(data))
-}
-
+  }
+  
 const showToys = (data) => {
   data.forEach(toy => { appendToy(toy)});
 }

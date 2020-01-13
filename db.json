@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 3,
@@ -53,6 +53,18 @@
       "image": "https://i5.walmartimages.com/asr/c4095fca-a528-4087-bc01-22ef6ed928dc_1.cb5a138ebb248df9de5776e00e934771.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff",
       "likes": 2,
       "id": 9
+    },
+    {
+      "name": "TEST3",
+      "image": "https://i5.walmartimages.com/asr/c4095fca-a528-4087-bc01-22ef6ed928dc_1.cb5a138ebb248df9de5776e00e934771.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff",
+      "likes": 2,
+      "id": 10
+    },
+    {
+      "name": "TEST4",
+      "image": "https://i5.walmartimages.com/asr/c4095fca-a528-4087-bc01-22ef6ed928dc_1.cb5a138ebb248df9de5776e00e934771.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff",
+      "likes": 2,
+      "id": 11
     }
   ]
 }
